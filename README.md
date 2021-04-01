@@ -7,4 +7,4 @@ This is mainly to just experiment with Electron and to use something besides my 
 
 ![Main menu](/assets/main.png)
 
-*Main menu of Jackbox.tv*
+*Main menu of Jackbox.tv*.
