@@ -28,7 +28,7 @@ app.whenReady().then(() => {
     });
     
     win.webContents.addListener("will-navigate", function(event, url) {
-        if (!url.startsWith("https://jackbox.tv/")) {
+        if (!url.startsWith("https://jackbox.tv/") && !url.startsWith("https://id.twitch.tv/")) {
             event.preventDefault();
             shell.openExternal(url);
         }

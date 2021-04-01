@@ -103,7 +103,10 @@ dist
 # TernJS port file
 .tern-port
 
-jackbox-windows-64/
+jackbox-client-win32-ia32/
+jackbox-client-win32-x64/
+jackbox-client-linux-ia32/
+jackbox-client-linux-x64/
 jackbox-windows-64.zip
 jackbox-windows-32.zip
 jackbox-linux-64.zip
