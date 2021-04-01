@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+jackbox-windows-64/
+jackbox-windows-64.zip
+jackbox-windows-32.zip
+jackbox-linux-64.zip
+jackbox-linux-32.zip

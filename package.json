@@ -1,0 +1,27 @@
+{
+  "name": "jackbox-client",
+  "version": "1.0.0",
+  "description": "Simple Jackbox client written in Node.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanlol/jackbox-client.git"
+  },
+  "keywords": [
+    "jackbox",
+    "jackbox-games"
+  ],
+  "author": "normanlol",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/normanlol/jackbox-client/issues"
+  },
+  "homepage": "https://github.com/normanlol/jackbox-client#readme",
+  "devDependencies": {
+    "electron": "^12.0.2"
+  }
+}
